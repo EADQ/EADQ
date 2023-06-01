@@ -46,8 +46,8 @@
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/EADQ)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-black?style=for-the-badge&logo=jupyter)](https://github.com/EADQ)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/EADQ)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/EADQ)
 <!--[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/EADQ) -->
-<!--[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/EADQ) -->
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/EADQ)
