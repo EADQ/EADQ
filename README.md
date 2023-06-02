@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm  Eduardo Alvarado.<br>
-        Hi there! As a Junior Software Developer, I have a strong desire to learn
+        As a Junior Software Developer, I have a strong desire to learn
         and excel in the field. Technology fascinates me, and I enjoy exploring
         new tools and techniques to improve my abilities. My attention to detail
         is meticulous, and I take pride in delivering work of the highest quality. I
