@@ -66,7 +66,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/EADQ)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/EADQ)
-
+[![IOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)](https://github.com/EADQ)
 
 <!--
 
